@@ -114,7 +114,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Business\IO\Connections.cs" />
+    <Compile Include="Business\IO\IoOperations.cs" />
+    <Compile Include="Business\Preferences\Preferences.cs" />
     <Compile Include="Controllers\ConductorController.cs" />
+    <Compile Include="Business\Preferences\PreferenceException.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -133,6 +137,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="App_Data\preferences.json" />
     <None Include="Properties\PublishProfiles\conductorapi - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\conductorapi - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\Web Publish.pubxml" />
@@ -143,9 +148,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
