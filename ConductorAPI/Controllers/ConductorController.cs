@@ -49,7 +49,7 @@ namespace ConductorAPI.Controllers
                     {
                         result =
                             $"The train from {connection.Departure.Station} to {connection.Arrival.Station} has a delay of {connection.Departure.Delay / 60} minutes. " +
-                            $"It will be departing at {connection.Departure.Time.DateTime:HH:mm}.";
+                            $"It will be departing at {connection.Departure.Time.DateTime.AddSeconds(connection.Departure.Delay):HH:mm}.";
                     }
                     else
                     {

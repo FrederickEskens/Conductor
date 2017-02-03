@@ -140,7 +140,6 @@
     <Content Include="App_Data\preferences.json" />
     <None Include="Properties\PublishProfiles\conductorapi - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\conductorapi - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\Web Publish.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
