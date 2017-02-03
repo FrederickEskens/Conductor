@@ -1,0 +1,41 @@
+C:\Projects\Conductor\Conductor\Conductor API\bin\ApplicationInsights.config
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\csc.exe
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\vbc.exe
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Conductor\Conductor\Conductor API\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Conductor\Conductor\Conductor API\bin\Conductor API.dll.config
+C:\Projects\Conductor\Conductor\Conductor API\bin\Conductor API.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Conductor API.pdb
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.Web.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Newtonsoft.Json.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Net.Http.Formatting.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Web.Http.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Web.Http.WebHost.dll
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.Web.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\Newtonsoft.Json.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Net.Http.Formatting.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Web.Http.xml
+C:\Projects\Conductor\Conductor\Conductor API\bin\System.Web.Http.WebHost.xml
+C:\Projects\Conductor\Conductor\Conductor API\obj\Release\Conductor API.csprojResolveAssemblyReference.cache
+C:\Projects\Conductor\Conductor\Conductor API\obj\Release\Conductor API.dll
+C:\Projects\Conductor\Conductor\Conductor API\obj\Release\Conductor API.pdb
